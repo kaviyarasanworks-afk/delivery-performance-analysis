@@ -4,7 +4,7 @@ End-to-end analysis of a food/parcel delivery dataset — data cleaning and KPI
 generation in Python, KPI validation in SQL, and an interactive dashboard in
 Power BI.
 
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+<img width="1118" height="741" alt="delivery_performance_dashboard_Screenshot pbix" src="https://github.com/user-attachments/assets/eff7a07a-f44f-4801-952d-a5a68700d423" />
 
 ## Project Overview
 
